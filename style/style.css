@@ -7,3 +7,9 @@
 .far{
     margin-right: 1rem !important;
 }
+.card-sizes{
+    width: 232px;
+}
+.nil-shadow{
+    box-shadow: 0 30px 20px rgba(79, 15, 255, 0.438);
+}
